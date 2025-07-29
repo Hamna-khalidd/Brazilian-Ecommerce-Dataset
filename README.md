@@ -1,7 +1,11 @@
 # Brazilian-Ecommerce-Dataset
 This project explore the Brazilian E-Commerce Public Dataset by Olist
+
+
 Dataset link:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
 Problem Statements:
 1.	Top 10 best-selling product categories
 2.	Which states generate the most revenue?
